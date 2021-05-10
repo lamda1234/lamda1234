@@ -6,7 +6,7 @@ export default function SearchBox(props) {
       <input
         type="search"
         className="searchBar"
-        placeholder="Search porn videos & porn movies..."
+        placeholder="Search porn videos  porn movies..."
         onChange={props.searchHandeler}
       />
     </div>
